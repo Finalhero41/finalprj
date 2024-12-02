@@ -1,12 +1,7 @@
 h1, h2, h3, h4, h5 ,h6 ,body {
      text-align: center;
       }
-/* 
 
-border: 5px solid red;
-padding: 20px;}
- padding is done in order top right bottom left */
- 
 
 h1 {color: darkgreen;
 }
@@ -136,14 +131,3 @@ main
    }
    
 
- /* #wrapper display: flex;
- gap 2;
- flex direction row
- flex direction colum reverse
- flex wrap 
- * for child of a class
- .gride-simple {
-  grid-timplate-colums auto and number 
-  lfr
-   repeat
-   div { width 90% margin auto
